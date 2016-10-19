@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1418769051 source:c:\users\doda\desktop\connect4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
